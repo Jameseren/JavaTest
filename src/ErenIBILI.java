@@ -3,7 +3,7 @@ public class ErenIBILI {
         System.out.println("Erenn deli oglan");
 
         // Ozer notes
-        System.out.println("Ozer");
+        System.out.println("Ozer ");
 
     }
 }
