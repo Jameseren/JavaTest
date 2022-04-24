@@ -1,6 +1,19 @@
 
 Creatures
     Human - Ozer will create the class.
+            Variables:
+                name, age, gender
+
+            Encapsulate all the fields
+
+            Add a constructor to set all the fields
+
+            Methods:
+                eat()
+                drink()
+                sleep()
+                toString()
+
 
     Animal- Eren will create the class.
 
